@@ -1,0 +1,22 @@
+body{
+    display: flex;
+}
+
+.padre{
+    border: solid pink 1px;
+    height: 500vh;
+    width 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.hijo{
+    border: solid 1px pink
+    background-color: rgb(52, 49, 218);
+    height: 100%;
+    width: 100%;
+}
+
